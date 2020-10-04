@@ -20,15 +20,6 @@
     background-color: rgba(245, 245, 245, 0.94);
 }
 
-.slds-icon-standard-client,
-.slds-icon-standard-related-list,
-.slds-icon-standard-contract,
-.slds-icon-custom-custom85,
-.slds-icon-custom-85,
-.slds-icon-standard-partner-fund-claim {
-    background-color: transparent;
-}
-
 .icon_color-pencil svg {
     fill: rgb(189, 193, 199);
 }
