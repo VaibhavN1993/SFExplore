@@ -1,34 +1,38 @@
-.ahm-iconColor svg{
-    fill:var(--c-activeIconcolor);
+.iconColor svg {
+    fill: var(--c-activeIconcolor);
     margin-top: -0.1rem;
 }
 
-.ahm-iconColor-warning svg{
-        fill:#e38500;
+.iconColor-warning svg {
+    fill: #e38500;
 }
 
-.ahm-iconAlt-gray svg{
+.iconAlt-gray svg {
     fill: rgba(112, 110, 107, 0.5)!important;
 }
 
-.ahm-iconColor-nonActive svg{
-    fill:var(--c-NonactiveIconcolor);
-    margin-top:-0.2rem;
+.iconColor-nonActive svg {
+    fill: var(--c-NonactiveIconcolor);
+    margin-top: -0.2rem;
 }
 
-.ahm-light-gray{
-    background-color:rgba(245, 245, 245, 0.94);
+.light-gray {
+    background-color: rgba(245, 245, 245, 0.94);
 }
 
-.slds-icon-standard-client, .slds-icon-standard-related-list, .slds-icon-standard-contract,
-.slds-icon-custom-custom85, .slds-icon-custom-85, .slds-icon-standard-partner-fund-claim {
-    background-color : transparent;
+.slds-icon-standard-client,
+.slds-icon-standard-related-list,
+.slds-icon-standard-contract,
+.slds-icon-custom-custom85,
+.slds-icon-custom-85,
+.slds-icon-standard-partner-fund-claim {
+    background-color: transparent;
 }
 
-.ahm-icon_color-pencil svg {
-	fill: rgb(189, 193, 199);
+.icon_color-pencil svg {
+    fill: rgb(189, 193, 199);
 }
 
-.ahm-icon_color-pencil:hover svg {
-	fill: rgb(0, 95, 178)
+.icon_color-pencil:hover svg {
+    fill: rgb(0, 95, 178)
 }
